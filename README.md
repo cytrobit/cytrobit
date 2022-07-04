@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cytrobit
+- 👋 Hi, my nickname is @cytrobit. I'm social worker from Poland who decided to learn front-end :)
 - 👀 I’m interested in new technologies, coding and music production.
-- 🌱 I’m currently learning Vanilla JS, TypeScript and React.
-- 💞️ I’m looking to collaborate on...maybe later. Learning new technologies takes a lot of time :)
+- 🌱 I’m currently learning Vanilla JS, TypeScript and React. I did one app in Angular too.
 - 📫 How to reach me: by e-mail address
 
 <!---
