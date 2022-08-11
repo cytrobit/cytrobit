@@ -1,6 +1,6 @@
-- 👋 Hi, my nickname is @cytrobit. I'm social worker from Poland who decided to learn front-end :)
+- 👋 Hi, my name is Marcin, my nickname is @cytrobit. I'm social worker from Poland who decided to learn front-end.
 - 👀 I’m interested in new technologies, demoscene, coding and music production.
-- 🌱 I’m currently learning Vanilla JS, TypeScript and React. I did one app in Angular too.
+- 🌱 I’m currently learning React library. I did one app in Angular with TypeScript too.
 - 📫 How to reach me: cytrobit@gmail.com
 
 <!---
